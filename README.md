@@ -11,6 +11,7 @@ This lab requires:
 
 ## Examples
 
-- [HTTP load balancer](http_lb/README.md)
-- [HTTP load balancer with a custom IP address](http_lb_custom_ip/README.md)
-- [HTTPS load balancer with a custom IP address](https_lb_custom_ip/README.md)
+- [HTTP Ingress](http/README.md)
+- [HTTPS Ingress](http/README.md)
+- [HTTP Ingress with a custom IP address](http_custom_ip/README.md)
+- [HTTPS Ingress with a custom IP address](https_custom_ip/README.md)
