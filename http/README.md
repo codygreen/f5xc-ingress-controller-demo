@@ -1,6 +1,6 @@
 # HTTP Ingress
 
-The `http_lb_custom_ip` example demonstrates the deployment of an HTTP load balancer.
+The `http_custom_ip` example demonstrates the deployment of an HTTP load balancer.
 
 The demo also creates an origin pool consisting of the `nginx` service running in the AppStack K8s cluster on port 8080.
 

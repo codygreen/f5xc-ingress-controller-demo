@@ -1,6 +1,6 @@
 # HTTPS Ingress with a Custom IP Address
 
-The `https_lb_custom_ip` example demonstrates the deployment of an HTTPS load balancer on a custom IP address. This use case is useful when you need to host DNS outside of XC and your DNS A record must point to a static IP address in your XC tenant.
+The `https_custom_ip` example demonstrates the deployment of an HTTPS load balancer on a custom IP address. This use case is useful when you need to host DNS outside of XC and your DNS A record must point to a static IP address in your XC tenant.
 
 The demo also creates an origin pool consisting of the `nginx` service running in the AppStack K8s cluster on port 8080.
 
